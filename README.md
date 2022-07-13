@@ -1,5 +1,5 @@
 <h1 align="centre"> Hi there 👋</h1>
-大家好,我是**Teror Fox**，初三在读 ϵ( 'Θ' )϶
+大家好,我是 **Teror Fox** ，初三在读 ϵ( 'Θ' )϶
 
 ## My Github Status
 <a href="https://github.com/teror864/teror864">
