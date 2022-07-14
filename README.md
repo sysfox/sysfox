@@ -8,7 +8,7 @@
 
 ## 其他
 - ✈ 博客: [Teror的客栈](https://fox.js.cool)
--  Github Page: [Go ](https://sysfox.github.io)
+- ⚓ Github Page: [Go ➡️](https://sysfox.github.io)
 
 ## Visiters
 ### You are the ![Visitor Count](https://profile-counter.glitch.me/sysfox/count.svg)visitor!
