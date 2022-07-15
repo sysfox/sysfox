@@ -8,7 +8,7 @@
 - 📧 有事请通过邮箱联系: daihao864@163.com
 - ⚠️ 本人是只三脚猫，不建议找我解决问题
 <a href="https://github.com/teror864/teror864">
-  <img align= "right" src="https://github-readme-stats.vercel.app/api?username=sysfox&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sysfox&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 ## Visiters
