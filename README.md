@@ -3,7 +3,7 @@
 ## 关于我
 
 <a href="https://github.com/sysfox">
-  <img width="60%" align="right" src="https://github-readme-stats.vercel.app/api?username=sysfox&show_icons=true&line_height=27&theme=Gradient" alt="Teror Fox's GitHub Stats" />
+  <img width="60%" align="right" src="https://github-readme-stats.vercel.app/api?username=sysfox&show_icons=true&line_height=27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Teror Fox's GitHub Stats" />
 </a>
 
 - 😆大家好,我是Teror Fox,初三在读 ϵ( 'Θ' )϶
