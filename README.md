@@ -1,5 +1,6 @@
-<h1 align="centre"> Hi! Welcome there! :wave: </h1>
+<h1 text-align="centre"> Hi! Welcome there! :wave: </h1>
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?size=40&lines=Think+Twice+Before+Acting)](https://git.io/typing-svg)
+
 ## 关于我
 
 <a href="https://github.com/sysfox">
