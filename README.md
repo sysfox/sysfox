@@ -1,5 +1,5 @@
 <h1 text-align="centre"> Hi! Welcome there! :wave: </h1>
-<img src="http://readme-typing-svg.herokuapp.com?size=40&lines=Think+Twice+Before+Acting" width="2000" height="150">
+<img src="http://readme-typing-svg.herokuapp.com&lines=Think+Twice+Before+Acting" width="1000" height="150">
 
 ## 关于我
 
