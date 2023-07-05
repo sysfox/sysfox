@@ -6,7 +6,7 @@
 </a>
 
 - 😆大家好,我是Teror Fox,海门中学高一在读 ϵ( 'Θ' )϶
-- ✈ 博客(即将关停): ～～[Teror的客栈](https://blog.trfox.ml)～～
+- ✈ 博客(即将关停): ~~[Teror的客栈](https://blog.trfox.ml)~~
 - 📧 有事请通过邮箱联系: imaginehtr@163.com
 - ⚠️ 本人是只三脚猫，不建议找我解决问题
 
