@@ -40,5 +40,27 @@
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
 ## 𝗦𝘁𝗮𝘁𝘀
+<table>
+    <tr>
+        <td >
+            <center><img src="https://p.trfox.top/https://github-readme-stats.vercel.app/api?username=sysfox&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center>
+        </td>
+        <td >
+            <center><img src="https://p.trfox.top/https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sysfox&theme=github_dark&show_icons=true" align="right" /></center>
+        </td>
+    </tr>
+</table>
 
-![Teror Fox's github stats](https://grs.trfox.top/api?username=sysfox&show_icons=true&theme=ambient_gradient)
+<table>
+    <tr>
+        <td >
+            <center><img src="https://p.trfox.top/http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sysfox&theme=vue" ></center>
+        </td>
+        <td >
+            <center><img src="https://p.trfox.top/http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sysfox&theme=github&utcOffset=8" align="right" /></center>
+        </td>
+        <td >
+            <center><img src="https://p.trfox.top/http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sysfox&theme=vue" align="right" /></center>
+        </td>
+    </tr>
+</table>
