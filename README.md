@@ -1,5 +1,8 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Teror Fox🦊
 
+## Wakatime
+[![wakatime](https://wakatime.com/badge/user/d0829c0f-34b6-44c0-a867-610f50a844f8.svg)](https://wakatime.com/@d0829c0f-34b6-44c0-a867-610f50a844f8) 
+(Since 2025-1-30)
 ## GitHub Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sysfox/sysfox@output/github-contribution-grid-snake.svg" />
