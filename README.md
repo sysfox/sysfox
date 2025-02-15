@@ -1,8 +1,10 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Teror Fox🦊
+# 𝙃𝙚𝙡𝙡𝙤
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2500&pause=800&center=true&repeat=false&width=850&height=80&lines=I%E2%80%99m+Teror+Fox;A+student+love+code+and+life)](https://git.io/typing-svg)
 
 ## Wakatime
 [![wakatime](https://wakatime.com/badge/user/d0829c0f-34b6-44c0-a867-610f50a844f8.svg)](https://wakatime.com/@d0829c0f-34b6-44c0-a867-610f50a844f8) 
 (Since 2025-1-30)
+
 ## GitHub Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sysfox/sysfox@output/github-contribution-grid-snake.svg" />
