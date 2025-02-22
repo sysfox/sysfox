@@ -82,5 +82,61 @@ JSON         4 mins          █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-# Metrics
-![Metrics](/github-metrics.svg)
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sysfox&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sysfox&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sysfox&theme=dark&hide_border=true" />
+</picture>
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+
+<!-- metrics 基础资料 -->
+<img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/base.svg" />
+<!-- profile-3d-contrib 3D 贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sysfox/sysfox/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sysfox/sysfox/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
+</div>
+
+
+<!-- GitHub metrics 信息指标 -->
+<div align="center">
+
+<!-- first form 第一个表格 -->
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/people.followers.svg" alt="people.followers" /></td>
+  </tr>
+</table>
+
+<!-- second form 第二个表格 -->
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfoxsysfox/sysfox/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+  </tr>
+</table>
