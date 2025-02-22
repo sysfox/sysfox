@@ -81,3 +81,6 @@ JSON         4 mins          █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+# Metrics
+![Metrics](/github-metrics.svg)
