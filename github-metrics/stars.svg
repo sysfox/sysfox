@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>labring/sealos</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availability databases (like MySQL, PostgreSQL, Redis, and MongoDB) and run any Docker image with ease.</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>labring/laf</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease.</div>
@@ -97,7 +97,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        7.43k
+                                        7.44k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>romkatv/powerlevel10k</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Zsh theme</div>
@@ -163,7 +163,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        2.53k
+                                        2.54k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -182,7 +182,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Innei/linear</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A more user-friendly GitHub notification management tool (WIP)</div>
@@ -229,7 +229,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Automattic/pocket-casts-ios</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pocket Casts iOS app 🎧</div>
@@ -263,7 +263,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        673
+                                        682
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -282,7 +282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AlienFamilyHub/AlienFamilyHub</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">相亲相爱一家人？相侵相碍异家人！ [maintainers=@FloatSheep @LYXOfficial]</div>
@@ -323,7 +323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jsdmirror/JSDMirror</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一个免费面向中国境内外的高速jsdelivr镜像站</div>
@@ -376,7 +376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>railmapgen/rmp</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Design your own rail map by freely dragging stations from different cities and connecting them with 135-degree rounded corners or perpendicular lines!</div>
@@ -429,7 +429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>w2016561536/android_virtual_cam</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">xposed安卓虚拟摄像头 android virtual camera on xposed hook</div>
@@ -482,7 +482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YunYouJun/chat-generator</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💬 聊天记录合集</div>
@@ -503,7 +503,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        20
+                                        21
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
