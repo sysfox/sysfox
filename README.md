@@ -73,11 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
-Python            13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-Vue.js            11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
-TypeScript        10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
-Java Properties   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
