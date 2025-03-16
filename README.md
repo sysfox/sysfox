@@ -1,10 +1,9 @@
 # 𝙃𝙚𝙡𝙡𝙤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2500&pause=800&center=true&multiline=true&repeat=false&width=900&height=180&lines=I%E2%80%99m+Teror+Fox;A+student+love+code+and+life)](https://git.io/typing-svg)
 
-## Wakatime
-[![wakatime](https://wakatime.com/badge/user/d0829c0f-34b6-44c0-a867-610f50a844f8.svg)](https://wakatime.com/@d0829c0f-34b6-44c0-a867-610f50a844f8) 
-(Since 2025-1-30)
-
+## Recent Blog
+<!-- feed start -->
+<!-- feed end -->
 ## GitHub Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sysfox/sysfox@output/github-contribution-grid-snake.svg" />
