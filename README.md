@@ -3,6 +3,10 @@
 
 ## Recent Blog
 <!-- feed start -->
+- Mar 07 - [Shiro开源版支持主页随机一言](https://blog.trfox.top/posts/site/shiro-random-hitokoto)
+- Mar 06 - [Hello World!](https://blog.trfox.top/posts/site/hello-world)
+- Mar 01 - [Breaking Changs](https://blog.trfox.top/posts/site/20250301-breakingchanges)
+- Aug 22 - [Teror Fox悄悄回归](https://blog.trfox.top/posts/site/comeback)
 <!-- feed end -->
 ## GitHub Contributions
 <picture>
