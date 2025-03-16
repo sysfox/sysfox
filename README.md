@@ -1,6 +1,8 @@
-# 𝙃𝙚𝙡𝙡𝙤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2500&pause=800&center=true&multiline=true&repeat=false&width=900&height=180&lines=I%E2%80%99m+Teror+Fox;A+student+love+code+and+life)](https://git.io/typing-svg)
 
+## Introduction
+Hello! I'm a creative student who is now studying in Haimen Middle School
+Welcome to my profile!
 ## Recent Blog
 <!-- feed start -->
 - Mar 07 - [Shiro开源版支持主页随机一言](https://blog.trfox.top/posts/site/shiro-random-hitokoto)
