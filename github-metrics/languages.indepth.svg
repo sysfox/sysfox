@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 144mb of code in 2953 edited files across 89 commits</small>
+                <small>estimation from 144mb of code in 2963 edited files across 90 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="433.01335246198596" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="433.01335246198596" y="0" width="17.70990716486749" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="450.72325962685346" y="0" width="7.070583930408646" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="457.7938435572621" y="0" width="2.2061564427378872" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.9582723280179" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="432.9582723280179" y="0" width="17.7076544305034" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="450.6659267585213" y="0" width="7.069684538489426" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="457.73561129701073" y="0" width="2.2643887029892236" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -75,8 +75,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>3.23k lines</div>
-                                <div>66.1 kB</div>
+                                <div>3.30k lines</div>
+                                <div>67.8 kB</div>
                             </small>
                         </div>
                     </section>
