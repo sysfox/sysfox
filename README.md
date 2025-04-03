@@ -8,6 +8,7 @@
 ### Welcome to my profile!
 ## Recent Blog
 <!-- feed start -->
+- Apr 02 - [20250402](https://blog.trfox.top/notes/3)
 - Mar 07 - [Shiro开源版支持主页随机一言](https://blog.trfox.top/posts/site/shiro-random-hitokoto)
 - Mar 06 - [Hello World!](https://blog.trfox.top/posts/site/hello-world)
 - Mar 01 - [Breaking Changs](https://blog.trfox.top/posts/site/20250301-breakingchanges)
