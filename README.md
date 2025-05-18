@@ -82,11 +82,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++          57 mins         ███████████░░░░░░░░░░░░░░   43.66 %
-TypeScript   37 mins         ███████░░░░░░░░░░░░░░░░░░   28.25 %
-JavaScript   29 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
-INI          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Python       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
