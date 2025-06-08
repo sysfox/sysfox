@@ -8,11 +8,11 @@
 ### Welcome to my profile!
 ## Recent Blog
 <!-- feed start -->
+- Jun 07 - [你好，2026高考](https://blog.trfox.top/notes/7)
 - May 24 - [换上新的头像啦](https://blog.trfox.top/notes/6)
 - May 10 - [Mix-Space邮件推送模版](https://blog.trfox.top/posts/develope/mix-space-email-push-template)
 - May 02 - [20250502](https://blog.trfox.top/notes/5)
 - May 01 - [江苏省海门中学4.11罢考事件](https://blog.trfox.top/posts/schmooze/jiangsu-haimen-middle-school-411-boycott-event)
-- Apr 26 - [Follow认证！](https://blog.trfox.top/posts/site/folo-cerfification)
 <!-- feed end -->
 ## GitHub Contributions
 <picture>
