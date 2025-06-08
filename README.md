@@ -151,4 +151,4 @@ HTML         11 mins         ██▒░░░░░░░░░░░░░░
 
 # Wakatime 
 
-<figure><embed src="https://wakatime.com/share/@sysfox/5350345a-a0d4-4176-ab80-8d0c9c7d1ad1.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sysfox/2bf692dd-4885-4d2f-b2c4-de0d6add977c.png" /></a>
