@@ -20,7 +20,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sysfox/sysfox@output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sysfox/sysfox@output/github-contribution-grid-snake.svg" />
 </picture>
-
+ <img align="right" src="https://github-readme-stats.yt-blog.top/api?username=sysfox&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile" />
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -148,3 +148,7 @@ HTML         11 mins         ██▒░░░░░░░░░░░░░░
     <td><img src="https://cdn.jsdelivr.net/gh/sysfox/sysfox/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
+
+# Wakatime 
+
+<figure><embed src="https://wakatime.com/share/@sysfox/5350345a-a0d4-4176-ab80-8d0c9c7d1ad1.svg"></embed></figure>
