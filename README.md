@@ -8,11 +8,11 @@
 ### Welcome to my profile!
 ## Recent Blog
 <!-- feed start -->
+- Jul 20 - [Ubuntu提示存在僵尸进程应该如何处理](https://blog.trfox.top/posts/devops/how-to-handle-zombie-processes-in-ubuntu)
+- Jul 20 - [DigitalOcean旧金山3区服务器测试](https://blog.trfox.top/posts/site/test-server)
+- Jul 19 - [DigitalOcean服务器跨区迁移记录](https://blog.trfox.top/posts/site/digitalocean-server-cross-region-migration)
 - Jun 07 - [你好，2026高考](https://blog.trfox.top/notes/7)
 - May 24 - [换上新的头像啦](https://blog.trfox.top/notes/6)
-- May 10 - [Mix-Space邮件推送模版](https://blog.trfox.top/posts/develope/mix-space-email-push-template)
-- May 02 - [20250502](https://blog.trfox.top/notes/5)
-- May 01 - [江苏省海门中学4.11罢考事件](https://blog.trfox.top/posts/schmooze/jiangsu-haimen-middle-school-411-boycott-event)
 <!-- feed end -->
 ## GitHub Contributions
 <picture>
