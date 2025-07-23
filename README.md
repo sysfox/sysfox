@@ -34,3 +34,11 @@ GitHub Stats:
 
 root@Ubuntu-22:~# 
 ```
+
+<!-- feed start -->
+- Jul 20 - [Ubuntu提示存在僵尸进程应该如何处理](https://blog.trfox.top/posts/devops/how-to-handle-zombie-processes-in-ubuntu)
+- Jul 20 - [DigitalOcean旧金山3区自用服务器性能测试](https://blog.trfox.top/posts/devops/digitalocean-san-francisco-3-server-performance-test)
+- Jul 19 - [DigitalOcean服务器跨区迁移记录](https://blog.trfox.top/posts/site/digitalocean-server-cross-region-migration)
+- Jun 07 - [你好，2026高考](https://blog.trfox.top/notes/7)
+- May 24 - [换上新的头像啦](https://blog.trfox.top/notes/6)
+<!-- feed end -->
