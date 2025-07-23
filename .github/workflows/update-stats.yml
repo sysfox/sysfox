@@ -5,6 +5,9 @@ on:
     # 每天早上8点运行 (UTC时间)
     - cron: '0 8 * * *'
   workflow_dispatch: # 允许手动触发
+  push:
+    branches:
+      - main # 监听main分支的推送事件
 
 jobs:
   update-stats:
