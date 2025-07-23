@@ -11,7 +11,7 @@ root@Ubuntu-22:~# pnpm run dev
      \ \_\ \____\\ \_\\ \____/\ \_\      \ \_\ \____//\_/\_\
       \/_/\/____/ \/_/ \/___/  \/_/       \/_/\/___/ \//\/_/
                                                             
-                         2022-2025
+                             2022-2025
 
 
 OS: macOS, Ubuntu
@@ -29,9 +29,6 @@ GitHub Stats:
   ├─ Total Issues: 48
   └─ Contributed to (Last Year): 32
 
-
-
-P25-07-23 01:00:19 UTC
 
 root@Ubuntu-22:~# 
 ```
