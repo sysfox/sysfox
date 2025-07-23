@@ -78,11 +78,6 @@ def update_readme(stats):
     
     content = re.sub(stats_pattern, new_stats, content)
     
-    # 更新时间戳
-    current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
-    time_pattern = r'(🔄 Auto-updated via GitHub Actions • Last sync: )[^\n]*'
-    content = re.sub(time_pattern, f'\\1{current_time} UTC', content)
-    
     # 写回文件
     with open(readme_path, 'w', encoding='utf-8') as file:
         file.write(content)
