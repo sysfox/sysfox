@@ -73,7 +73,6 @@ def update_readme(stats):
   ├─ Total PRs: {stats['prs']}
   ├─ Total Issues: {stats['issues']}
   └─ Contributed to (Last Year): {stats['contributed']}
-
 """
     
     content = re.sub(stats_pattern, new_stats, content)
