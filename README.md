@@ -29,12 +29,6 @@ GitHub Stats:
   ├─ Total Issues: 50
   └─ Contributed to (Last Year): 32
 
-
-
-
-
-
-root@Ubuntu-22:~# 
 ```
 # My Recent Blog
 <!-- feed start -->
