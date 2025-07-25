@@ -26,7 +26,7 @@ GitHub Stats:
   ├─ Stars Earned: 6
   ├─ Commits (This Year): 1886
   ├─ Total PRs: 58
-  ├─ Total Issues: 50
+  ├─ Total Issues: 51
   └─ Contributed to (Last Year): 32
 
 ```
