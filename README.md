@@ -30,6 +30,17 @@ GitHub Stats:
   └─ Contributed to (Last Year): 32
 
 ```
+# My Status
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=99103591" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=99103591&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @sysfox" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=99103591&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 # My Recent Blog
 <!-- feed start -->
 - Jul 25 - [AI的遗言](https://blog.trfox.top/notes/10)
