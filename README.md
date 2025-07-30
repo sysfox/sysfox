@@ -23,7 +23,7 @@ Skills:
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB, MariaDB
   └─ Tools: VS Code Cursor,
 GitHub Stats:
-  ├─ Stars Earned: 6
+  ├─ Stars Earned: 7
   ├─ Commits (This Year): 1886
   ├─ Total PRs: 59
   ├─ Total Issues: 53
