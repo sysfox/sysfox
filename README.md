@@ -39,6 +39,7 @@ GitHub Stats:
     <img alt="Dashboard stats of @sysfox" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=99103591&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+<img src="https://gitroll.io/api/badges/profiles/v1/u9DwO7eedE5RjGFpFC4K12Anur2I3?theme=light" alt="GitRoll Profile Badge"/>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 # My Recent Blog
