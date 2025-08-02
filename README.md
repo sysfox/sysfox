@@ -38,6 +38,7 @@ GitHub Stats:
   </picture>
 </a>
 <a href="https://gitroll.io/profile/u9DwO7eedE5RjGFpFC4K12Anur2I3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u9DwO7eedE5RjGFpFC4K12Anur2I3?theme=light" alt="GitRoll Profile Badge"/></a>
+
 # My Recent Blog
 <!-- feed start -->
 - Jul 30 - [msf木马免杀方法测试](https://blog.trfox.top/posts/cybersecurity/msf-bypass-test)
