@@ -41,9 +41,9 @@ GitHub Stats:
 
 # My Recent Blog
 <!-- feed start -->
+- Oct 02 - [让我们看看这个家伙干了些什么……](https://blog.trfox.top/posts/cybersecurity/let-us-see-what-this-guy-did)
 - Aug 30 - [三体中的那些金句](https://blog.trfox.top/posts/literature/memorable-quotes-from-the-three-body-problem)
 - Aug 23 - [腾讯云首尔轻量应用服务器测试](https://blog.trfox.top/posts/devops/tencent-cloud-seoul-lightweight-server-test)
 - Jul 30 - [msf木马免杀方法测试](https://blog.trfox.top/posts/cybersecurity/msf-bypass-test)
 - Jul 25 - [AI的遗言](https://blog.trfox.top/notes/10)
-- Jul 20 - [Ubuntu提示存在僵尸进程应该如何处理](https://blog.trfox.top/posts/devops/how-to-handle-zombie-processes-in-ubuntu)
 <!-- feed end -->
