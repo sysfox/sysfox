@@ -41,9 +41,9 @@ GitHub Stats:
 
 # My Recent Blog
 <!-- feed start -->
+- Jan 10 - [近况](https://blog.trfox.top/notes/12)
 - Oct 19 - [恐与离](https://blog.trfox.top/notes/11)
 - Oct 06 - [Ubuntu24解决安装cAdvisor提示找不到 CPU 的挂载点错误](https://blog.trfox.top/posts/devops/ubuntu24-cadvisor-cpu-mount-point-error-fix)
 - Oct 02 - [让我们看看这个家伙干了些什么……](https://blog.trfox.top/posts/cybersecurity/let-us-see-what-this-guy-did)
 - Aug 30 - [三体中的那些金句](https://blog.trfox.top/posts/literature/memorable-quotes-from-the-three-body-problem)
-- Aug 23 - [腾讯云首尔轻量应用服务器测试](https://blog.trfox.top/posts/devops/tencent-cloud-seoul-lightweight-server-test)
 <!-- feed end -->
