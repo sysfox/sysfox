@@ -41,9 +41,9 @@ GitHub Stats:
 
 # My Recent Blog
 <!-- feed start -->
+- Feb 17 - [测试工程师的笑话中包含哪些你必须知道的内容？](https://blog.trfox.top/posts/develope/essential-content-in-test-engineer-jokes)
+- Feb 17 - [那是一阵风](https://blog.trfox.top/notes/13)
 - Feb 16 - [Burp Suite Pro 2025安装与Crack](https://blog.trfox.top/posts/cybersecurity/install-and-crack-burp-2025)
 - Jan 10 - [近况](https://blog.trfox.top/notes/12)
 - Oct 19 - [恐与离](https://blog.trfox.top/notes/11)
-- Oct 06 - [Ubuntu24解决安装cAdvisor提示找不到 CPU 的挂载点错误](https://blog.trfox.top/posts/devops/ubuntu24-cadvisor-cpu-mount-point-error-fix)
-- Oct 02 - [让我们看看这个家伙干了些什么……](https://blog.trfox.top/posts/cybersecurity/let-us-see-what-this-guy-did)
 <!-- feed end -->
