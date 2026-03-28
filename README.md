@@ -25,7 +25,7 @@ Skills:
 GitHub Stats:
   ├─ Stars Earned: 11
   ├─ Commits (This Year): 1886
-  ├─ Total PRs: 69
+  ├─ Total PRs: 67
   ├─ Total Issues: 75
   └─ Contributed to (Last Year): 32
 
