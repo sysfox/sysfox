@@ -41,9 +41,9 @@ GitHub Stats:
 
 # My Recent Blog
 <!-- feed start -->
+- Jun 23 - [Oh-My-Posh 调教全记录：从报错到完美配置（附自动化脚本)](https://blog.trfox.top/posts/develope/struggle-installing-oh-my-posh)
 - May 02 - [我是如何水到 Qexo 的一个高危漏洞的（9.3分）？](https://blog.trfox.top/posts/cybersecurity/how-i-found-qexo-high-risk-vulnerability)
 - Mar 28 - [迷茫中的希望](https://blog.trfox.top/notes/14)
 - Feb 22 - [Tinder 开发笔记——随想象一路前进，于前进探索未知](https://blog.trfox.top/posts/develope/tinder-development-notes-exploration)
 - Feb 17 - [测试工程师的笑话中包含哪些你必须知道的内容？](https://blog.trfox.top/posts/develope/essential-content-in-test-engineer-jokes)
-- Feb 17 - [那是一阵风](https://blog.trfox.top/notes/13)
 <!-- feed end -->
