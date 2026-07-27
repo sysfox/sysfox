@@ -41,9 +41,9 @@ GitHub Stats:
 
 # My Recent Blog
 <!-- feed start -->
+- Jul 25 - [Windows11 部署WSL2 并迁移部署位置](https://blog.trfox.top/posts/develope/windows-11-wsl2-installation-and-migration)
 - Jun 29 - [这是一篇水文](https://blog.trfox.top/posts/literature/a-hydrology-article)
 - Jun 29 - [Oh-My-Posh 调教全记录：从报错到完美配置（附自动化脚本)](https://blog.trfox.top/posts/develope/struggle-installing-oh-my-posh)
 - May 02 - [我是如何水到 Qexo 的一个高危漏洞的（9.3分）？](https://blog.trfox.top/posts/cybersecurity/how-i-found-qexo-high-risk-vulnerability)
 - Mar 28 - [迷茫中的希望](https://blog.trfox.top/notes/14)
-- Feb 22 - [Tinder 开发笔记——随想象一路前进，于前进探索未知](https://blog.trfox.top/posts/develope/tinder-development-notes-exploration)
 <!-- feed end -->
