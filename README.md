@@ -41,9 +41,9 @@ GitHub Stats:
 
 # My Recent Blog
 <!-- feed start -->
+- Sep 11 - [从零训练猫脸识别模型并部署到K230开发板](https://blog.trfox.top/posts/develope/train-cat-face-recognition-model-and-deploy-it-to-k230-board)
 - Jul 25 - [Windows11 部署WSL2 并迁移部署位置](https://blog.trfox.top/posts/develope/windows-11-wsl2-installation-and-migration)
 - Jun 29 - [这是一篇水文](https://blog.trfox.top/posts/literature/a-hydrology-article)
 - Jun 29 - [Oh-My-Posh 调教全记录：从报错到完美配置（附自动化脚本)](https://blog.trfox.top/posts/develope/struggle-installing-oh-my-posh)
 - May 02 - [我是如何水到 Qexo 的一个高危漏洞的（9.3分）？](https://blog.trfox.top/posts/cybersecurity/how-i-found-qexo-high-risk-vulnerability)
-- Mar 28 - [迷茫中的希望](https://blog.trfox.top/notes/14)
 <!-- feed end -->
