@@ -3,7 +3,7 @@ name: Update GitHub Stats
 on:
   schedule:
     # 每天早上8点运行 (UTC时间)
-    - cron: '0 8 * * *'
+    - cron: '0 8 * * 1,4'
   workflow_dispatch: # 允许手动触发
   push:
     branches:
