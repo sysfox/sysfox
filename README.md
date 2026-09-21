@@ -41,9 +41,9 @@ GitHub Stats:
 
 # My Recent Blog
 <!-- feed start -->
+- Sep 20 - [WeFlow 技术架构全解析](https://blog.trfox.top/posts/develope/weflow-technical-architecture-analysis)
+- Sep 19 - [XInput 协议完全解析：从 Windows 手柄 API 到 16 字节 BLE HID 报文](https://blog.trfox.top/posts/develope/XInput_Protocol_Complete_Guide)
+- Sep 18 - [一次服务器崩溃后的完整复盘：从 OOM 到挖矿木马入侵链](https://blog.trfox.top/posts/cybersecurity/server-crash-postmortem-oom-cryptomining-trojan-intrusion-chain)
 - Sep 11 - [从零训练猫脸识别模型并部署到K230开发板](https://blog.trfox.top/posts/develope/train-cat-face-recognition-model-and-deploy-it-to-k230-board)
 - Jul 25 - [Windows11 部署WSL2 并迁移部署位置](https://blog.trfox.top/posts/develope/windows-11-wsl2-installation-and-migration)
-- Jun 29 - [这是一篇水文](https://blog.trfox.top/posts/literature/a-hydrology-article)
-- Jun 29 - [Oh-My-Posh 调教全记录：从报错到完美配置（附自动化脚本)](https://blog.trfox.top/posts/develope/struggle-installing-oh-my-posh)
-- May 02 - [我是如何水到 Qexo 的一个高危漏洞的（9.3分）？](https://blog.trfox.top/posts/cybersecurity/how-i-found-qexo-high-risk-vulnerability)
 <!-- feed end -->
